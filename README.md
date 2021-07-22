@@ -1,4 +1,4 @@
-# Youtube-MP3-Installer
+# Youtube-MP3-Downloader
 
 --Just put the URL and then choose a name for the file
 
