@@ -4,3 +4,10 @@
 	-["My List" is gonna get random musics]-
 
 	Made with python
+
+
+
+	Dependencies:
+	-Python
+	-youtube_dll
+	
