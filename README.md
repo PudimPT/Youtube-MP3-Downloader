@@ -4,4 +4,3 @@
 
 
 	Made with python
-	Its as a exe in the file
