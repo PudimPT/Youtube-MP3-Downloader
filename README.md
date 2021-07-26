@@ -9,5 +9,5 @@
 
 	Dependencies:
 	-Python
-	-youtube_dll
+	-youtube_dl
 	
